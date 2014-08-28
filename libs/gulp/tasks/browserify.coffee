@@ -33,4 +33,5 @@ gulp.task 'browserify', (callback) ->
 
     if global.isWatching then bundler.on 'update', bundle
 
+    bundle()
     callback()
