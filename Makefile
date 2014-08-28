@@ -1,6 +1,6 @@
 NODE_ENV ?= production
-APP_NAME ?= boiler
-DEBUG ?= boiler*
+APP_NAME ?= viennajs
+DEBUG ?= viennajs*
 
 all: clean install build revision
 
