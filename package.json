@@ -1,9 +1,10 @@
 {
-    "name": "express-boilerplate",
-    "description": "Express Boilerplate project for all kind of web applications or REST APIs",
+    "name": "viennajs.org",
+    "description": "Official viennajs.org website",
     "version": "2.0.0",
+    "private": true,
     "author": "Thomas Fritz <fritztho@gmail.com>",
-    "homepage": "https://github.com/fortytwoio/express-boilerplate",
+    "homepage": "www.viennajs.org",
     "engines": {
         "node": ">=0.10.25 <=0.12"
     },
@@ -48,9 +49,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/thomasfr/express-boilerplate.git"
+        "url": "https://github.com/viennajs/viennajs.org.git"
     },
     "bugs": {
-        "url": "https://github.com/thomasfr/express-boilerplate/issues"
+        "url": "https://github.com/viennajs/viennajs.org/issues"
     }
 }
